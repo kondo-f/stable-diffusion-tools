@@ -2,9 +2,9 @@
 
 ## TODO
 
-- [ ] support `pipeline_stable_diffusion_img2img.py`
-- [ ] support `pipeline_stable_diffusion_inpaint.py`
-- [ ] support `pipeline_stable_diffusion_onnx.py`
+- [x] support `pipeline_stable_diffusion_img2img.py`
+- [x] support `pipeline_stable_diffusion_inpaint.py`
+- [x] support `pipeline_stable_diffusion_onnx.py`
 
 ## Target Library
 
